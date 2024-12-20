@@ -15,6 +15,12 @@
 * [Zapp!](https://zapp.run) - free online sandbox environment for building & sharing Dart & Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and much more.
 * [Interactive Git learning online](https://learngitbranching.js.org) - Learn git commands in an interactive way on `learngitbranching` website.
 
+#### Video Resources
+* [Mitch Koko](https://www.youtube.com/@createdbykoko) - Awesome easy-to-follow Flutter project tutorials which are perfect for beginners
+* [HeyFlutter.com](https://www.youtube.com/@HeyFlutter) - Flutter tutorials that will help you learn and create various flutter widgets
+* [All Flutter Widgets](https://youtube.com/playlist?list=PL82uaKJraAILRBFE1XhCyfvu-Fclc6vv1&si=m5CL8oFoPPu7_LED) - Playlist created by ***Flutter Mapp*** which contains an overview of all the existing Flutter Widgets
+* [Git/GitHub Tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw) - Git/GitHub Tutorial for beginners
+
 #### Language
 * https://dart.dev/guides/language/language-tour - a brief tour of the Dart language.
 * https://dart.dev/guides/language/effective-dart - a guide to writing better Dart code.
